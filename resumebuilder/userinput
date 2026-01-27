@@ -1,0 +1,29 @@
+name=input("Enter your name: ")
+contact_num=input("Enter your contact number: ")
+email=input("Enter your email address: ")
+profile_sum=input("Enter a brief profile summary: ")
+education_num=input("Enter number of educational qualifications: ")
+education_list=[]
+for i in range(int(education_num)):
+    education=input("Enter your educational qualifications: ")
+    education_list.append(education)
+work_exp_num=input("Enter number of work experiences: ")
+work_exp_list=[]
+for i in range(int(work_exp_num)):
+    work_exp=input("Enter your work experience: ")
+    work_exp_list.append(work_exp)
+skills_num=input("Enter number of skills: ")
+skills_list=[]
+for i in range(int(skills_num)):
+    skill=input("Enter your skill: ")
+    skills_list.append(skill)
+projects_num=input("Enter number of projects: ")
+projects_list=[]
+for i in range(int(projects_num)):
+    project=input("Enter your project: ")
+    projects_list.append(project)
+achievements_num=input("Enter number of achievements: ")
+achievements_list=[]
+for i in range(int(achievements_num)):
+    achievement=input("Enter your achievement: ")
+    achievements_list.append(achievement)
