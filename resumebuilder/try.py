@@ -96,14 +96,14 @@ education_num=input("Enter number of educational qualifications: ")
 education_list=[]
 for i in range(int(education_num)):
     education=input("Enter your educational qualifications: ")
-#     education_list.append(education)
-# work_exp_num=input("Enter number of work experiences: ")
-# work_exp_list=[]
-# for i in range(int(work_exp_num)):
-#     work_exp=input("Enter your work experience: ")
-#     work_exp_list.append(work_exp)
-# skills_num=input("Enter number of skills: ")
-# skills_list=[]
+    education_list.append(education)
+work_exp_num=input("Enter number of work experiences: ")
+work_exp_list=[]
+for i in range(int(work_exp_num)):
+    work_exp=input("Enter your work experience: ")
+    work_exp_list.append(work_exp)
+skills_num=input("Enter number of skills: ")
+skills_list=[]
 # for i in range(int(skills_num)):
 #     skill=input("Enter your skill: ")
 #     skills_list.append(skill)
