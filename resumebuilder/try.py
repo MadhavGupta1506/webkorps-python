@@ -92,10 +92,10 @@ contact_num=input("Enter your contact number: ")
 email=input("Enter your email address: ")
 linkedIn=input("Enter your linkeIn profile:")
 profile_sum=input("Enter a brief profile summary: ")
-# education_num=input("Enter number of educational qualifications: ")
-# education_list=[]
-# for i in range(int(education_num)):
-#     education=input("Enter your educational qualifications: ")
+education_num=input("Enter number of educational qualifications: ")
+education_list=[]
+for i in range(int(education_num)):
+    education=input("Enter your educational qualifications: ")
 #     education_list.append(education)
 # work_exp_num=input("Enter number of work experiences: ")
 # work_exp_list=[]
