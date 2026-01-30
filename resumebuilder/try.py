@@ -73,19 +73,19 @@ projects_list = [
     "of producing ATS-friendly PDFs from structured user input using Python and ReportLab."
 ]
 
-# achievements_list = [
-#     "Employee of the Year 2023 at Tech Corp for outstanding technical leadership and "
-#     "project delivery excellence",
+achievements_list = [
+    "Employee of the Year 2023 at Tech Corp for outstanding technical leadership and "
+    "project delivery excellence",
 
-#     "Published 3 in-depth technical articles on Medium with over 50,000 cumulative views, "
-#     "covering backend scalability, API design, and cloud best practices",
+    "Published 3 in-depth technical articles on Medium with over 50,000 cumulative views, "
+    "covering backend scalability, API design, and cloud best practices",
 
-#     "Active contributor to 5+ open-source projects on GitHub, including bug fixes, "
-#     "feature enhancements, and documentation improvements",
+    "Active contributor to 5+ open-source projects on GitHub, including bug fixes, "
+    "feature enhancements, and documentation improvements",
 
-#     "Speaker at internal tech talks and developer meetups on system design and backend "
-#     "performance optimization"
-# ]
+    "Speaker at internal tech talks and developer meetups on system design and backend "
+    "performance optimization"
+]
 
 name=input("Enter your name: ")
 contact_num=input("Enter your contact number: ")
