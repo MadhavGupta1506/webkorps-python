@@ -89,9 +89,9 @@ achievements_list = [
 
 name=input("Enter your name: ")
 contact_num=input("Enter your contact number: ")
-# email=input("Enter your email address: ")
-# linkedIn=input("Enter your linkeIn profile:")
-# profile_sum=input("Enter a brief profile summary: ")
+email=input("Enter your email address: ")
+linkedIn=input("Enter your linkeIn profile:")
+profile_sum=input("Enter a brief profile summary: ")
 # education_num=input("Enter number of educational qualifications: ")
 # education_list=[]
 # for i in range(int(education_num)):
