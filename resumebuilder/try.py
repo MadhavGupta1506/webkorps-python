@@ -87,23 +87,23 @@ achievements_list = [
     "performance optimization"
 ]
 
-# name=input("Enter your name: ")
-# contact_num=input("Enter your contact number: ")
-# email=input("Enter your email address: ")
-# linkedIn=input("Enter your linkeIn profile:")
-# profile_sum=input("Enter a brief profile summary: ")
-# education_num=input("Enter number of educational qualifications: ")
-# education_list=[]
-# for i in range(int(education_num)):
-#     education=input("Enter your educational qualifications: ")
-#     education_list.append(education)
-# work_exp_num=input("Enter number of work experiences: ")
-# work_exp_list=[]
-# for i in range(int(work_exp_num)):
-#     work_exp=input("Enter your work experience: ")
-#     work_exp_list.append(work_exp)
-# skills_num=input("Enter number of skills: ")
-# skills_list=[]
+name=input("Enter your name: ")
+contact_num=input("Enter your contact number: ")
+email=input("Enter your email address: ")
+linkedIn=input("Enter your linkeIn profile:")
+profile_sum=input("Enter a brief profile summary: ")
+education_num=input("Enter number of educational qualifications: ")
+education_list=[]
+for i in range(int(education_num)):
+    education=input("Enter your educational qualifications: ")
+    education_list.append(education)
+work_exp_num=input("Enter number of work experiences: ")
+work_exp_list=[]
+for i in range(int(work_exp_num)):
+    work_exp=input("Enter your work experience: ")
+    work_exp_list.append(work_exp)
+skills_num=input("Enter number of skills: ")
+skills_list=[]
 # for i in range(int(skills_num)):
 #     skill=input("Enter your skill: ")
 #     skills_list.append(skill)
