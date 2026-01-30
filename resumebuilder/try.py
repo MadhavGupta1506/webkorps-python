@@ -61,15 +61,15 @@ skills_list = [
 ]
 
 projects_list = [
-    "Scalable E-commerce Platform – Designed and implemented a full-stack e-commerce "
+    "Scalable E-commerce Platform - Designed and implemented a full-stack e-commerce "
     "application supporting 10k+ active users, featuring secure payment processing, "
     "role-based access control, order management, and real-time inventory updates.",
 
-    "Collaborative Task Management System – Built a web-based project tracking tool "
+    "Collaborative Task Management System - Built a web-based project tracking tool "
     "with real-time collaboration, user roles, and notification services using WebSockets "
     "and REST APIs. Improved team productivity by streamlining task workflows.",
 
-    "Resume Builder Application – Developed a dynamic resume generation system capable "
+    "Resume Builder Application - Developed a dynamic resume generation system capable "
     "of producing ATS-friendly PDFs from structured user input using Python and ReportLab."
 ]
 
