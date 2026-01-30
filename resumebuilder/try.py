@@ -87,8 +87,8 @@ achievements_list = [
     "performance optimization"
 ]
 
-# name=input("Enter your name: ")
-# contact_num=input("Enter your contact number: ")
+name=input("Enter your name: ")
+contact_num=input("Enter your contact number: ")
 # email=input("Enter your email address: ")
 # linkedIn=input("Enter your linkeIn profile:")
 # profile_sum=input("Enter a brief profile summary: ")
